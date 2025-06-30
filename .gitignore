@@ -1,0 +1,27 @@
+# Virtual environment folder
+venv/
+
+# SQLite database file
+*.sqlite3
+
+# User-uploaded media files
+media/
+
+# Collected static files (from python manage.py collectstatic)
+staticfiles/
+
+# PyCharm-specific files (if you use PyCharm)
+.idea/
+
+# VS Code-specific files
+.vscode/
+
+# Python compilation artifacts
+__pycache__/
+*.pyc
+
+# Environment variables file (if you start using one, e.g., for SECRET_KEY)
+.env
+
+# Django-specific logs
+*.log
